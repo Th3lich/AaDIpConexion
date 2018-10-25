@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AaDIpConexión</string>
+    <string name="action_settings">Settings</string>
+    <string name="ip">IP:</string>
+    <string name="conexión">Connection:</string>
+</resources>
